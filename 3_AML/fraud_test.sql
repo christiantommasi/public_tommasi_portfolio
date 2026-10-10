@@ -1,0 +1,1 @@
+select * from clientes_bet_aml_fraude;
